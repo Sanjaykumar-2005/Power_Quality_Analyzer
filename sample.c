@@ -36,6 +36,7 @@ int main(void) {
 	}
 }
 
+
 /* ===== CLOCK (SAFE DEFAULT) ===== */
 void SystemClock_Config(void)
 {
